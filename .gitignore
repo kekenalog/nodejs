@@ -1,0 +1,15 @@
+target
+bin
+.settings
+.externalToolBuilders
+.project
+.classpath
+.pdm
+.idea
+*.iml
+*.ipr
+*.iws
+reports
+.java-version
+*/node_modules
+*/package-lock.json
